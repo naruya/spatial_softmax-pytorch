@@ -1,6 +1,14 @@
 # spatial_softmax-pytorch
 
+- using only 4 [x,y]
+
+- mnist acc >> 90%
+
 ![](images/all_points00.png)
+
+![](images/all_points01.png)
+
+![](images/all_points02.png)
 
 ![feature0](images/feature0.png)
 
