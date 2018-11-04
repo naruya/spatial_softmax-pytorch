@@ -10,10 +10,14 @@
 
 ![](images/all_points02.png)
 
+- feature0
 ![feature0](images/feature0.png)
 
+- feature1
 ![feature1](images/feature1.png)
 
+- feature2
 ![feature2](images/feature2.png)
 
+- feature3
 ![feature3](images/feature3.png)
